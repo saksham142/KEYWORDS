@@ -124,8 +124,10 @@ Web Development is the process of designing, building, deploying, and maintainin
   Python is a high-level, interpreted, and general-purpose programming language known for its readability, simplicity, and versatility. Developed by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to express concepts in fewer lines of code compared to other languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
    Basic Example:
-   Here is a simple example of Python code that prints "Hello, World!" to the console:
    
+  Here is a simple example of Python code that prints "Hello, World!" to the console:  
+
+  ![alt image](https://github.com/saksham142/KEYWORDS/blob/b19d2b9e80dd4c7458083d98101b447d1a56f411/Python-Hello-World-Executing-code.png)
 
   
 
