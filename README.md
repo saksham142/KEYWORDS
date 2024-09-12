@@ -113,5 +113,9 @@ Web Development is the process of designing, building, deploying, and maintainin
 
   - Definition: Ensuring that web applications and data are protected from threats and vulnerabilities.
   - Practices: Includes implementing SSL/TLS for secure communication, protecting against SQL injection, cross-site scripting (XSS), and ensuring proper authentication and authorization.
+ 
+
+**8.Python**
+
   
 
