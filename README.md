@@ -118,10 +118,10 @@ Web Development is the process of designing, building, deploying, and maintainin
 **8.Python**
 
 
-![alt image](https://github.com/saksham142/KEYWORDS/blob/7161f3aec596101435ed8f47b2f524ff13dd7b74/python.webp)
+  ![alt image](https://github.com/saksham142/KEYWORDS/blob/7161f3aec596101435ed8f47b2f524ff13dd7b74/python.webp)
 
 
-Python is a high-level, interpreted, and general-purpose programming language known for its readability, simplicity, and versatility. Developed by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to express concepts in fewer lines of code compared to other languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+  Python is a high-level, interpreted, and general-purpose programming language known for its readability, simplicity, and versatility. Developed by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to express concepts in fewer lines of code compared to other languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
    Basic Example:
    Here is a simple example of Python code that prints "Hello, World!" to the console:
