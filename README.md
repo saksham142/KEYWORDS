@@ -21,13 +21,13 @@ Here are key aspects of algorithms:
 
   a.Steps and Instructions: An algorithm consists of a sequence of operations or instructions that must be executed in a specific order. Each step should be clear and unambiguous, ensuring that the process can be easily followed and implemented.
 
-  b.Finite and Terminable: An algorithm must have a finite number of steps and must eventually terminate. It should not run indefinitely or loop endlessly unless it is specifically designed for iterative processes with a clear stopping condition.
+   b.Finite and Terminable: An algorithm must have a finite number of steps and must eventually terminate. It should not run indefinitely or loop endlessly unless it is specifically designed for iterative processes with a clear stopping condition.
 
-  c.Input and Output: An algorithm typically receives input (data or parameters) and produces output (results or solutions). The input is transformed into output through the algorithm's defined steps.
+   c.Input and Output: An algorithm typically receives input (data or parameters) and produces output (results or solutions). The input is transformed into output through the algorithm's defined steps.
 
-  d.Effectiveness: Each step of an algorithm should be simple enough to be performed exactly and in a finite amount of time. The operations should be practical and feasible to execute.
+   d.Effectiveness: Each step of an algorithm should be simple enough to be performed exactly and in a finite amount of time. The operations should be practical and feasible to execute.
 
-  e.Correctness: An algorithm should produce the correct output for all valid inputs. It must be rigorously tested to ensure it handles various cases and edge conditions appropriately.
+   e.Correctness: An algorithm should produce the correct output for all valid inputs. It must be rigorously tested to ensure it handles various cases and edge conditions appropriately.
 
   **4.Data Structure:**
 
@@ -64,5 +64,54 @@ Here are key aspects of algorithms:
   Definition: Parallelism involves using multiple processors or cores to perform computations simultaneously, thereby increasing the overall performance of the system. It can be implemented at various levels, such as instruction-level parallelism (ILP), thread-level parallelism (TLP), and data-level parallelism (DLP).
     Examples: Multi-core processors, GPUs.
 
+**6.Operating systerm**
+
+An Operating System is system software that acts as an intermediary between users and the computer hardware. It is responsible for managing hardware resources (such as the CPU, memory, and storage devices), providing a user interface, and enabling the execution of application software. The OS performs essential functions to ensure that hardware and software work together efficiently and securely.
+
+**7.Web Development**
+
+Web Development is the process of designing, building, deploying, and maintaining websites and web applications. It involves the use of various technologies and programming languages to create functional, interactive, and aesthetically pleasing web experiences for users. Web development also includes ensuring that web applications are secure, performant, and scalable.
+
+***Key Components of Web Development:***
+
+* Front-End Development:
+
+     Definition: The client-side part of web development, focused on what users see and interact with in their web browsers.
+
+    + Technologies:
+         - HTML (HyperText Markup Language): Structures the content on the web page.
+         - CSS (Cascading Style Sheets): Styles the appearance of web pages (e.g., layout, colors, fonts).
+         - JavaScript: Adds interactivity and dynamic features to web pages (e.g., animations, form validations).
+         - Front-End Frameworks and Libraries: Tools like React, Angular, and Vue.js that simplify and enhance front-end development.
+     
+*  Back-End Development:
+
+   Definition: The server-side part of web development, focused on how web applications function behind the scenes and manage data.
+
+   +  Technologies:
+         - Server-Side Languages: Languages like Python, Ruby, PHP, Java, and Node.js used to create server-side logic.
+         - Databases: Systems like MySQL, PostgreSQL, MongoDB, and SQLite that store and manage data.
+         - Server Management: Handling server configurations, APIs, and ensuring the backend can process requests and serve data efficiently.
+
+* Full-Stack Development:
+
+  - Definition: Combines both front-end and back-end development to create complete web applications.
+  - Skills: Involves proficiency in both client-side and server-side technologies and the ability to manage the entire web development process.
+
+* Web Design:
+
+  - Definition: Involves the aesthetic and usability aspects of web development, including layout design, color schemes, typography, and user experience (UX) design.
+  - Tools: Design software like Adobe XD, Figma, and Sketch are often used to create mockups and prototypes.
+
+* Web Hosting and Deployment:
+
+  - Definition: The process of making a web application or website accessible on the internet.
+  - Components: Includes choosing a hosting provider, setting up servers, and deploying code.
+  - Tools: Services like AWS, Heroku, and Netlify facilitate hosting and deployment.
+
+* Web Security:
+
+  - Definition: Ensuring that web applications and data are protected from threats and vulnerabilities.
+  - Practices: Includes implementing SSL/TLS for secure communication, protecting against SQL injection, cross-site scripting (XSS), and ensuring proper authentication and authorization.
   
 
