@@ -39,28 +39,30 @@ Here are key aspects of algorithms:
  
   Key Aspects of Computer Architecture:
  
-  Instruction Set Architecture (ISA):
+  * Instruction Set Architecture (ISA):
 
   Definition: The ISA defines the set of instructions that a computer's CPU can execute. It includes the set of operations, the instruction formats, and the ways in which the CPU interacts with memory and I/O devices.
     Example: x86, ARM.
 
-Microarchitecture:
+* Microarchitecture:
 
   Definition: The microarchitecture refers to the internal structure and organization of a CPU. It includes details such as the arrangement of execution units, registers, cache, and the data paths within the CPU.
     Example: Intel’s Core i7 or AMD’s Ryzen processors.
 
-Memory Hierarchy:
+* Memory Hierarchy:
 
   Definition: This concept deals with the organization of different types of memory in a computer system, including registers, cache, RAM, and disk storage. The hierarchy is designed to balance speed and cost by using faster but more expensive memory (like caches) closer to the CPU and larger but slower memory (like hard drives) further away.
     Levels: Typically includes L1 (Level 1) cache, L2 (Level 2) cache, L3 (Level 3) cache, main memory (RAM), and secondary storage (SSD/HDD).
 
-Pipelining:
+* Pipelining:
 
   Definition: Pipelining is a technique used to improve the CPU's performance by overlapping the execution of multiple instructions. It involves dividing the execution process into separate stages, allowing the CPU to work on multiple instructions simultaneously.
     Stages: Common stages include instruction fetch, instruction decode, execution, memory access, and write-back.
 
-Parallelism:
+* Parallelism:
 
   Definition: Parallelism involves using multiple processors or cores to perform computations simultaneously, thereby increasing the overall performance of the system. It can be implemented at various levels, such as instruction-level parallelism (ILP), thread-level parallelism (TLP), and data-level parallelism (DLP).
     Examples: Multi-core processors, GPUs.
+
+  
 
