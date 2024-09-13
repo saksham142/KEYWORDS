@@ -129,5 +129,33 @@ Web Development is the process of designing, building, deploying, and maintainin
 
   ![alt image](https://github.com/saksham142/KEYWORDS/blob/b19d2b9e80dd4c7458083d98101b447d1a56f411/Python-Hello-World-Executing-code.png)
 
+  **9.Blockchain:**
+
+   In computer science, blockchain refers to a specific type of distributed ledger technology that ensures data integrity and security through a decentralized network of computers. It is a sequential chain of blocks, where each block contains a set of transactions and is linked to the previous block using cryptographic hashes.
+
+   **10.Database Management System (DBMS)**
+
+   A Database Management System (DBMS) is a software application that provides an interface for users to interact with and manage databases. It handles the creation, retrieval, updating, and deletion of data in a structured way. Essentially, a DBMS serves as a mediator between end-users or applications and the database, ensuring that data is stored securely and can be efficiently accessed and manipulated.
+
+   
+ - Key Functions of a DBMS:
+
+    1.Data Definition: Allows users to define the structure of data (e.g., tables, columns, relationships) through data definition language (DDL) commands. This includes creating, altering, and deleting database schemas and objects.
+
+    2.Data Manipulation: Provides facilities to manipulate data using data manipulation language (DML) commands, such as inserting, updating, deleting, and querying data.
+
+    3.Data Retrieval: Supports querying of data to retrieve specific information using query languages like SQL (Structured Query Language). This includes filtering, sorting, and aggregating data.
+
+    4.Data Security: Implements security measures to control access to data. This includes user authentication, authorization, and encryption to protect sensitive information.
+
+    5.Data Integrity: Ensures that data is accurate and consistent by enforcing constraints and validation rules, such as primary keys, foreign keys, and unique constraints.
+
+    6.Transaction Management: Manages transactions to ensure data integrity and consistency, even in the event of system failures or concurrent access. This includes features like atomicity, consistency, isolation, and durability (ACID properties).
+
+    7.Backup and Recovery: Provides tools for backing up data and recovering it in case of data loss or corruption. This includes periodic backups and recovery procedures to restore data to a consistent state.
+
+    8.Concurrency Control: Manages simultaneous access to the database by multiple users to prevent conflicts and ensure that transactions do not interfere with each other.
+
+    9.Data Administration: Includes tools for monitoring and managing database performance, optimizing queries, and tuning system parameters.
   
 
