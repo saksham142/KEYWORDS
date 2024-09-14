@@ -157,5 +157,28 @@ Web Development is the process of designing, building, deploying, and maintainin
     8.Concurrency Control: Manages simultaneous access to the database by multiple users to prevent conflicts and ensure that transactions do not interfere with each other.
 
     9.Data Administration: Includes tools for monitoring and managing database performance, optimizing queries, and tuning system parameters.
+
+
+ **11.Structured Query Language(SQL)**
+
+   SQL is a domain-specific language designed for managing and manipulating relational databases. It allows users to create, read, update, and delete (CRUD) data stored in a relational database management system (RDBMS).
+
+**12.Machine Learning**
+
+Machine learning is a branch of artificial intelligence where algorithms enable computers to learn from and make predictions or decisions based on data. Instead of being explicitly programmed for specific tasks, models improve their performance over time by identifying patterns and relationships within data.
+
+**13.DevOps (Development Operations)**
+
+DevOps focuses on the seamless integration of development and operations processes. It aims to streamline the software development lifecycle (SDLC) by fostering collaboration, automating processes, and applying principles from both software engineering and system administration.
+
+**14.HTML**
+
+HTML is a markup language that provides the basic building blocks for creating web pages. It structures content and integrates with other technologies like CSS (Cascading Style Sheets) and JavaScript to create fully functional web applications.\
+
+- Basic HTML Structure
+
+   An HTML document consists of elements enclosed within tags. The fundamental structure of an HTML document is:
+
+  
   
 
