@@ -179,6 +179,14 @@ HTML is a markup language that provides the basic building blocks for creating w
 
    An HTML document consists of elements enclosed within tags. The fundamental structure of an HTML document is:
 
+  ![alt image](https://github.com/saksham142/KEYWORDS/blob/644860ff2c89dbe042380d108428cb01dd4a7523/basic-structure.webp)
+
+   - DOCTYPE html: Declaration that defines the document type and version of HTML (HTML5 in this case).
+   - html: Root element that contains all other HTML elements.
+   - head: Contains meta-information about the document, such as the title and links to stylesheets or scripts.
+   - title: Sets the title of the document, which appears in the browser’s title bar or tab.
+   - body: Contains the content of the document, including text, images, links, and other elements.
+
   
   
 
