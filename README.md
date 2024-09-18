@@ -241,6 +241,10 @@ Key Concepts of Docker:
 
 Nginx (pronounced "engine-x") is a high-performance web server and reverse proxy server known for its speed, scalability, and efficiency. Originally created to handle high concurrency with low resource consumption, Nginx is widely used to serve static content, manage load balancing, and handle dynamic web applications.
 
+![alt image ](https://github.com/saksham142/KEYWORDS/blob/57b47b39467db9142e7a214e12a433a8a0394c77/NGINX_11e20532e2.webp)
+
+
+
 
 
 
