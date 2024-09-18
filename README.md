@@ -7,7 +7,7 @@ Computer science is a broad field that focuses on the study of computers and com
 
 **1.Programming Language:**
 
-![alt image](
+![alt image](https://github.com/saksham142/KEYWORDS/blob/d1f1d8c1936968323c3932de3f9127d076fc46e0/1_g2wjp0xZ4-68HVHYGvSxcw.png)
 
 
 
