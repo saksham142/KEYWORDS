@@ -229,7 +229,7 @@ Popular Container Technologies:
 
 Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications using containerization. It allows you to package applications and their dependencies into standardized units called containers, which can run consistently across various environments.
 
-![alt image](
+![alt image](https://github.com/saksham142/KEYWORDS/blob/35b1a442f40afe3f8a0231a6563083de857afaf3/1614037651061.png)
 
 Key Concepts of Docker:
 
