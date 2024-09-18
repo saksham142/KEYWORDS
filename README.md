@@ -223,6 +223,28 @@ Popular Container Technologies:
 
 Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications using containerization. It allows you to package applications and their dependencies into standardized units called containers, which can run consistently across various environments.
 
+![alt image](https://github.com/saksham142/KEYWORDS/blob/856c12e953e988d48035fea20f6af461212cf88a/Docker-Logo.png)
+
+Key Concepts of Docker:
+
+  - Containers: Lightweight, portable units that encapsulate an application and its dependencies. Containers share the host operating system’s kernel, which makes them more efficient than traditional virtual machines.
+
+  - Images: A Docker image is a read-only template used to create containers. Images contain everything needed to run an application, including the code, libraries, and environment variables. They are built using a file called a Dockerfile, which contains instructions on how to assemble the image.
+
+  - Dockerfile: A text file that contains a series of instructions for building a Docker image. It specifies the base image, application code, dependencies, and configuration settings.
+
+  - Docker Hub: A cloud-based registry for sharing and storing Docker images. Users can pull images from Docker Hub or push their own images for others to use.
+
+  - Docker Compose: A tool for defining and running multi-container applications using a simple YAML file. It allows you to configure the services, networks, and volumes required for an application in one place.
+
+**NGINX**
+
+Nginx (pronounced "engine-x") is a high-performance web server and reverse proxy server known for its speed, scalability, and efficiency. Originally created to handle high concurrency with low resource consumption, Nginx is widely used to serve static content, manage load balancing, and handle dynamic web applications.
+
+
+
+
+
 
 
 
