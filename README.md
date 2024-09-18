@@ -20,6 +20,8 @@ Networking in the context of computer science refers to the practice of connecti
 
 **3.Algorithm:**
 
+![alt image](https://github.com/saksham142/KEYWORDS/blob/96dfdbe3a2123afa03ee2a700931f8c68fe39710/PI_2017.02.08_Algorithms_featured.png)
+
 Algorithms are fundamental to programming and data processing, providing a systematic way to achieve a desired outcome.
 Here are key aspects of algorithms:
 
@@ -227,7 +229,7 @@ Popular Container Technologies:
 
 Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications using containerization. It allows you to package applications and their dependencies into standardized units called containers, which can run consistently across various environments.
 
-![alt image](https://github.com/saksham142/KEYWORDS/blob/856c12e953e988d48035fea20f6af461212cf88a/Docker-Logo.png)
+![alt image](
 
 Key Concepts of Docker:
 
