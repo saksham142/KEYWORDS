@@ -187,6 +187,45 @@ HTML is a markup language that provides the basic building blocks for creating w
    - title: Sets the title of the document, which appears in the browser’s title bar or tab.
    - body: Contains the content of the document, including text, images, links, and other elements.
 
+ **15.Cloud Storage**
+
+ Cloud storage is a model of data storage in which digital data is stored on remote servers accessed via the internet, rather than on a local computer or physical storage device. This allows users to store, manage, and retrieve their data from anywhere with an internet connection.
+
+ - Key features of cloud storage include:
+
+  - Scalability: Users can easily increase or decrease storage capacity as needed.
+  - Accessibility: Data can be accessed from multiple devices and locations.
+  - Backup and Recovery: Cloud services often provide automatic backup solutions and data recovery options.
+  - Cost-Effectiveness: Users typically pay only for the storage they use, avoiding the costs associated with physical hardware.
+  - Collaboration: Cloud storage facilitates easy sharing and collaboration on documents and files.
+
+**16.Protocol**
+
+In computer science, a protocol is a set of rules and conventions that govern how data is transmitted and communicated between devices over a network. Protocols define the format, order, and error handling of messages exchanged, ensuring that devices can understand each other and work together effectively.
+
+Key aspects of protocols include:
+
+  - Communication Rules: Specify how data is packaged, addressed, transmitted, and received.
+  - Message Formats: Define the structure of messages, including headers and payloads.
+  - Error Handling: Include mechanisms for detecting and correcting errors during transmission.
+  - Synchronization: Ensure that communication occurs in an orderly manner, allowing for coordination between devices.
+
+**17.CONTAINERS**
+
+A container in computer science is a lightweight, portable unit that packages an application and its dependencies, including libraries, configurations, and other necessary files, so that it can run consistently across different computing environments. Containers use virtualization at the operating system level, allowing multiple containers to share the same OS kernel while isolating them from each other.
+
+Popular Container Technologies:
+
+  - Docker: The most widely used containerization platform, which provides tools to create, deploy, and manage containers.
+  - Kubernetes: An orchestration platform for managing large numbers of containers, handling deployment, scaling, and networking.
+
+**18.DOCKERS**
+
+Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications using containerization. It allows you to package applications and their dependencies into standardized units called containers, which can run consistently across various environments.
+
+
+
+
   
   
 
