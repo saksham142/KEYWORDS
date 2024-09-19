@@ -268,7 +268,7 @@ Key Features of OSL:
 
 **21.Blockchain**
 
-![alt image](
+![alt image](https://github.com/saksham142/KEYWORDS/blob/aef600287c34f074ad7336463374d2327c96b97f/360_F_423044511_bCUtUzoO2LUAsOJrZzCtkaX7w3FS7SOZ.webp)
 
 Blockchain is a decentralized digital ledger that securely records transactions across multiple computers. It ensures transparency and immutability, meaning once a transaction is recorded, it cannot be altered. Each block contains transaction data, a timestamp, and a reference to the previous block, forming a secure chain. Consensus mechanisms validate transactions, while smart contracts automate agreements. Used primarily in cryptocurrencies, blockchain also enhances supply chain transparency, healthcare data sharing, and secure voting systems, though challenges like scalability and energy consumption persist.
 
@@ -283,6 +283,24 @@ Key Features:
 - Consensus Mechanisms: To validate transactions and add them to the blockchain, the network uses consensus algorithms (like Proof of Work or Proof of Stake). These ensure that all nodes agree on the validity of transactions.
 
 - Smart Contracts: Blockchain can support self-executing contracts with the terms of the agreement directly written into code. These automate and enforce contract execution without intermediaries.
+
+**22.Artificial Intelligence (AI)**
+
+![alt image](
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. It encompasses a range of technologies and methodologies aimed at enabling machines to perform tasks that typically require human intelligence. Here are some key aspects of AI:
+
+Types of AI: 
+
+- Narrow AI: Designed to perform a specific task (e.g., virtual assistants like Siri or Alexa).
+
+- General AI: Hypothetical AI that possesses the ability to understand and reason across a broad range of tasks, similar to a human.
+
+Future of AI: 
+
+- AI continues to evolve, with ongoing research focusing on achieving more sophisticated forms of intelligence, enhancing human-AI collaboration, and addressing ethical concerns.
+
+- In summary, AI aims to mimic human cognitive functions and has numerous applications that are transforming industries and everyday life. If you have any specific questions or want to explore a particular aspect further, let me know!
 
 
     
