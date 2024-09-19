@@ -249,35 +249,7 @@ Nginx (pronounced "engine-x") is a high-performance web server and reverse proxy
 
 ![alt image ](https://github.com/saksham142/KEYWORDS/blob/22906a4b088d43df354ecdf11592ddd872b21947/png-transparent-nginx-hd-logo-thumbnail.png)
 
-How to Install NGINX
 
-In this tutorial, we’ll show you how to install NGINX on Linux. Open your Linux machine and run an update using the command below:
-
-    sudo apt-get update
-
-Next, run this command: 
-
-    sudo apt-get install nginx
-
-Then, enable your firewall with the following: 
-
-    sudo ufw enable
-
-To verify NGINX is installed, run the following:
-
-    nginx -v
-
-You can run the command below to find out if NGINX is running:
-
-    sudo ufw status
-
-After running this command, you should see the following:
-
-    status: active
-
-To check whether your NGINX server is working fine, run the following:
-
-    sudo systemctl status nginx
 
 **20.OSL MODEL**
 
