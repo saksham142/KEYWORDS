@@ -1,4 +1,4 @@
-# COMPUTER SCIENCE 
+  # COMPUTER SCIENCE 
 ![image alt](https://github.com/saksham142/KEYWORDS/blob/3a13ce185ccd4a1b4063d5375fe85d455f3e83ef/Untitled.jpeg)
 
 Computer science is a broad field that focuses on the study of computers and computational systems. It encompasses both the theoretical aspects of computation and the practical aspects of designing and implementing software and hardware systems. 
@@ -252,6 +252,37 @@ Nginx (pronounced "engine-x") is a high-performance web server and reverse proxy
 
 
 **20.OSL MODEL**
+
+The OSL model, or Online Sequential Learning model, is a framework often used in machine learning, particularly in scenarios involving streaming data or continuous learning. It allows models to learn from incoming data sequentially rather than in batches. This is beneficial for applications where data arrives over time, such as real-time predictions, adaptive systems, or environments where data is constantly evolving.
+
+Key Features of OSL:
+
+- Incremental Learning: Models update their parameters as new data comes in, which helps them adapt to changes without retraining from scratch.
+
+- Efficiency: Since it processes data one instance at a time, it can be more resource-efficient in terms of memory and computation.
+
+- Real-time Applications: Ideal for applications like online recommendation systems, fraud detection, and adaptive control systems.
+
+- Concept Drift Handling: OSL models can be designed to detect and adapt to changes in the underlying data distribution, a common issue known as concept drift.
+
+
+**21.Blockchain**
+
+![alt image](
+
+Blockchain is a decentralized digital ledger that securely records transactions across multiple computers. It ensures transparency and immutability, meaning once a transaction is recorded, it cannot be altered. Each block contains transaction data, a timestamp, and a reference to the previous block, forming a secure chain. Consensus mechanisms validate transactions, while smart contracts automate agreements. Used primarily in cryptocurrencies, blockchain also enhances supply chain transparency, healthcare data sharing, and secure voting systems, though challenges like scalability and energy consumption persist.
+
+Key Features:
+
+- Decentralization: Unlike traditional databases managed by a central authority, a blockchain is distributed across a network of nodes (computers). This reduces the risk of a single point of failure and enhances security.
+
+- Transparency: Transactions on a blockchain are visible to all participants in the network. This transparency builds trust among users, as everyone can verify the data independently.
+
+- Immutability: Once a transaction is recorded on the blockchain, it cannot be changed or deleted. This is achieved through cryptographic hashing, which links each block to the previous one, forming a secure chain.
+
+- Consensus Mechanisms: To validate transactions and add them to the blockchain, the network uses consensus algorithms (like Proof of Work or Proof of Stake). These ensure that all nodes agree on the validity of transactions.
+
+- Smart Contracts: Blockchain can support self-executing contracts with the terms of the agreement directly written into code. These automate and enforce contract execution without intermediaries.
 
 
     
