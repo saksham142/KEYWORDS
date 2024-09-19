@@ -286,7 +286,7 @@ Key Features:
 
 **22.Artificial Intelligence (AI)**
 
-![alt image](
+![alt image](https://github.com/saksham142/KEYWORDS/blob/ec8311ec60525ccb0fafd109b4ab9c7da148efa5/future-artificial-intelligence-robot-network-system-background-scaled.jpg.crdownload)
 
 Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. It encompasses a range of technologies and methodologies aimed at enabling machines to perform tasks that typically require human intelligence. Here are some key aspects of AI:
 
