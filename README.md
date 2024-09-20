@@ -379,6 +379,7 @@ Multithreading is a programming technique that enables a single process to execu
 
 **29.API**
 
+![alt image](
 
 An API, or Application Programming Interface, is a set of rules and protocols that allow different software applications to communicate with each other. APIs define the methods and data formats that applications can use to request and exchange information, enabling developers to integrate different systems and services seamlessly.
 
