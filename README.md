@@ -340,7 +340,25 @@ The compiler converts the optimized intermediate code into machine code that the
 Additional improvements may be made to the final machine code to enhance execution efficiency.
 
 
-**25.
+**25.Debugging**
+
+Debugging is the process of identifying, isolating, and fixing errors or bugs in software. It involves reproducing the issue, analyzing the code, and using tools like debuggers and logging to trace execution. Once the source of the problem is found, developers modify the code to correct it and then test to ensure the fix works without introducing new issues. Debugging is essential for maintaining software quality and improving overall functionality.
+
+**26.GIT**
+
+![alt image](
+
+Git is a distributed version control system designed to track changes in files, primarily used for source code management in software development. Key features include:
+
+- Distributed Architecture: Each user has a full copy of the repository, allowing for offline work and quick operations.
+ 
+- Version Control: Records changes to files over time, enabling users to revert to previous versions if needed.
+ 
+- Branching and Merging: Supports multiple lines of development, allowing teams to work on features simultaneously without conflicts.
+  
+- Common Commands: Includes commands like git clone, git add, git commit, git push, and git pull for managing repositories.
+
+Git enhances collaboration among developers, ensures data integrity, and is widely used in both open-source and commercial projects.
 
 
  
